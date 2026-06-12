@@ -1,0 +1,13 @@
+=== COMPTES DE TEST — Old Dating ===
+
+URL : https://etudiant.univ-eiffel.fr/~karl.nat-ngam/old_dating/
+
+--- ADHÉRENTS ---
+Marie75     / Test2026!
+JeanPierre72 / Test2026!
+Suzanne68   / Test2026!
+RobertP     / Test2026!
+Paul64      / Test2026!
+
+--- ADMINISTRATEUR ---
+admin       / Admin2026!

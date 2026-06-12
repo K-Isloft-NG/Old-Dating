@@ -1,0 +1,14 @@
+# Fichiers de log SMS (simulation)
+old_dating/logs/*.txt
+old_dating/logs/*.log
+
+# Fichiers de configuration locaux
+old_dating/config.local.php
+
+# Fichiers temporaires PHP
+old_dating/generate_hash.php
+
+# Dépendances et cache
+vendor/
+.DS_Store
+Thumbs.db
